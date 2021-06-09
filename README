@@ -13,7 +13,7 @@ NodeJs - JS framework
 - Express - server
 - Socket.io - web socket framework
 
-To Launch: in console: node index.js
+To Launch: in console: node index.js:
 
 sources:
 https://socket.io/docs/
